@@ -64,8 +64,8 @@ public struct GeneralSupport{
 
 
 public struct API{
-    static let apiKey = "86bbfd1a9cce2b7a21dda2751616aead"
-    static let oneCallBase = "https://api.openweathermap.org/data/2.5/onecall?"
+    static let apiKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    static let oneCallBase = "https://api.openweathermap.org/XXXXXXXXXXXXXXXX"
     
    static func requestURL(lat: String, lon: String) -> URL{
 
